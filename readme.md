@@ -53,6 +53,7 @@ This project applies **customer analytics techniques used in real-world product 
 
 ### 📊 Key Visualization
 ![Customer LTV Segmentation](assets/1_Customer_LTV_Classes.png)
+
 *Fig 1: Distribution of customer base vs. revenue contribution. Note the disproportionate impact of high-value customers.*
 
 ### 💡 Insights
@@ -79,8 +80,8 @@ This project applies **customer analytics techniques used in real-world product 
 - **Trend Analysis**: Compared "All Customers" vs. "Active Spending Customers" to isolate purchasing frequency from value.
 
 ### 📊 Key Visualization
-*(Placeholder for Cohort Analysis Chart - Ensure `assets/2_Customer_Retention_pie.png` or similar is relevant here. Using broad retention image as placeholder if specific cohort chart is unavailable)*
 ![Cohort Analysis](assets/2_Customer_Retention_pie.png)
+
 *Fig 2: Retention distribution showing the proportion of retained vs. churned customers.*
 
 ### 💡 Insights
@@ -108,6 +109,7 @@ This project applies **customer analytics techniques used in real-world product 
 
 ### 📊 Key Visualization
 ![Churn vs Retention](assets/3_Customer_Churn_Cohorts.png)
+
 *Fig 3: Visualizing the decay of active user bases across different acquisition cohorts.*
 
 ### 💡 Insights
